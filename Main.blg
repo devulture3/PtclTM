@@ -19,46 +19,64 @@ Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: Metodo.aux
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: biblio.bib
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1237 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1237 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1273 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1277 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1309 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1309 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1342 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1361 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1361 of file dcu.bst
 Warning--empty publisher in bib1
-You've used 1 entry,
+You've used 3 entries,
             2921 wiz_defined-function locations,
-            650 strings with 4899 characters,
-and the built_in function-call counts, 1954 in all, are:
-= -- 283
-> -- 28
+            661 strings with 5264 characters,
+and the built_in function-call counts, 15778 in all, are:
+= -- 2692
+> -- 76
 < -- 0
-+ -- 116
-- -- 8
-* -- 139
-:= -- 442
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 14
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 23
-empty$ -- 40
-format.name$ -- 10
-if$ -- 349
++ -- 1278
+- -- 22
+* -- 1330
+:= -- 3120
+add.period$ -- 7
+call.type$ -- 3
+change.case$ -- 42
+chr.to.int$ -- 3
+cite$ -- 4
+duplicate$ -- 45
+empty$ -- 88
+format.name$ -- 28
+if$ -- 2836
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 7
-num.names$ -- 12
-pop$ -- 8
+missing$ -- 2
+newline$ -- 17
+num.names$ -- 32
+pop$ -- 20
 preamble$ -- 1
-purify$ -- 15
+purify$ -- 45
 quote$ -- 0
-skip$ -- 20
+skip$ -- 42
 stack$ -- 0
-substring$ -- 361
-swap$ -- 7
-text.length$ -- 14
+substring$ -- 3867
+swap$ -- 8
+text.length$ -- 42
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
+type$ -- 12
 warning$ -- 1
-while$ -- 23
+while$ -- 65
 width$ -- 0
-write$ -- 17
-(There was 1 warning)
+write$ -- 45
+(There were 9 error messages)
