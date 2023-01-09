@@ -1,0 +1,168 @@
+\chapter{Instructivo}
+
+\section{Especificaciones de formato}
+
+Este apartado no forma parte del protocolo. Se incluye como orientación básica para el uso de \LaTeX y sus comandos o funciones esenciales para homologar los documentos en la Unidad de Aprendizaje de Metodología de la Investigación, plan F3, de la Licenciatura en Ingeniería en Computación. Tiene como finalidad homologar los aspectos de formato para la entrega de avances en el documento, y deberá ser tomado como base. Las funciones adicionales, se investigarán por cada alumno en función de los requerimientos particulares de cada propuesta, y las recomendaciones emitidas por el asesor.
+
+Los apartados de cada capítulo son:
+
+\begin{itemize}
+	\item \textbf{Secciones:} Identifican los puntos principales de cada capítulo.
+	\item \textbf{Sub-secciones:} Subtemas.
+	\item \textbf{Sub-sub-secciones:} Conceptos. Nivel máximo recomendado. 	
+\end{itemize}
+
+Enseguida se presentan a manera ilustrativa cómo lucen estos tres niveles de texto. 
+
+\section{Ejemplo de sección o tema}
+\subsection{Ejemplo de sub-sección o subtema}
+\subsubsection{Ejemplo de sub-sub-sección o concepto} 
+
+\subsection{Notas al pie}
+
+Las notas al pie deberán de ser utilizadas para proporcionar información complementaria a la idea principal del párrafo, que el lector puede consultar de manera inmediata al finalizar una página. Ejemplo de uso de notas al pie \footnote{Detalles relevantes al final de la misma página. Pueden incluirse citas en las notas al pie.}.
+
+\subsection {Citas y referencias}
+
+% \citeA{bib1} 
+% uso con apacite
+
+% \shortcite{bib4} vs \fullcite{bib4}.
+% uso con apacite
+
+%\parencite{bib2}.
+% biber
+
+% \citeauthor[p.1]{bib1} y \citeyear{bib7}.
+% biber
+
+Las citas preferidas son los artículos de investigación en el formato de autor-año, tal como aparecen en este párrafo de ejemplo; nótese que el punto final se coloca después de las referencias y no antes \citep{bib1,bib2}. En ambos ejemplos solamente aparecen los primeros autores, y cuando son varios, se colocará la abreviatura et al., que significa: y colaboradores.
+
+Este es un ejemplo de una cita, en donde la fuente se coloca usualmente al final del enunciado \citep{bib8}. Pueden existir varias referencias que ayuden a complementar una idea, por lo que también aparecen juntas \citep{bib3,bib11,bib12}. En un párrafo puede haber una o más referencias si es necesario.  
+
+Cuando es importante hacer mención del autor, por ser una autoridad en la materia, o por variar en el estilo de redacción, la manera de citarlo es un poco diferente. En este ejemplo se supone que es importante lo que dijeron \citet{bib4}, ya que mencionan que algo es importante para la investigación. O quizá lo que hizo \citet{bib12}. En estos casos, se coloca el autor y entre paréntesis el año, pero \LaTeX ya lo hace, solo hay que usar el estilo correcto de citación.   
+
+Los datos; por ejemplo, un banco de imágenes o un conjunto de archivos, también deben citarse y aparecer en la lista de referencias \citep{bib9}.
+
+Existen diversos documentos o fuentes que se deben citar, por ejemplo:
+
+\begin{itemize}
+\item Parte de libro, indicando páginas \citep[págs. 10--13]{bib5}. 
+\item Parte de un libro especificando el capítulo \citep[cap. 4]{bib_chap}
+\item Capítulo de una serie de volúmenes \citep{bib7}.
+\item Tesis \citep{bib_tesis} (en este caso, tome nota del tipo de entrada que se usa en el archivo biblio.bib).
+\item Libro editado \citep{bib6}.
+\item Actas de conferencia \citep{bib7}.
+\item Ponencia o charla \citep{bib8}.
+\item Artículo en proceso (pre-print) \citep{bib10}
+\end{itemize}
+
+Se recomienda revisar las entradas colocadas en el archivo *.bib, que forma parte de esta plantilla. 
+
+
+\subsection{Listas}
+
+Esencialmente hay dos tipos de listas, y se coloca un ejemplo de cada una enseguida: 
+
+\begin{itemize}
+\item Edad de Piedra
+	\begin{itemize}
+	\item Paleolítico
+		\begin{itemize}
+		\item Paleolítico inferior
+		\item Paleolítico medio
+		\item Paleolítico superior
+	\end{itemize}
+	\item Mesolítico
+	\item Neolítico
+	\end{itemize}
+\item Edad del Cobre
+\item Edad del Bronce
+\item Edad del Hierro
+\end{itemize} 
+
+\begin{enumerate}
+\item Edad de Piedra
+	\begin{enumerate}
+	\item Paleolítico
+		\begin{itemize}
+		\item Paleolítico inferior
+		\item Paleolítico medio
+		\item Paleolítico superior
+		\end{itemize}
+	\item Mesolítico
+	\item Neolítico
+	\end{enumerate}
+\item Edad del Cobre
+\item Edad del Bronce
+\item Edad del Hierro
+\end{enumerate} 
+
+\subsection{Tablas}
+
+Las tablas contienen información resumida, que permite una mejor visualización que el texto. Siempre debe mencionarse y describirse en el texto la tabla \ref{tab:ejemplo}, previamente a su aparición en el documento.
+
+\begin{table}[!ht]
+\centering
+\caption{Descripción breve, concisa, pero eficaz del contenido de la tabla. Se coloca encima de la tabla. Puede indicarse el origen de la información de la tabla (nunca copiar tal cual una tabla). Adaptado de \citep{bib11}.} 
+\label{tab:ejemplo}
+\begin{tabular}{c c c c} 
+\hline
+Col1 & Col2 & Col2 & Col3 \\ [0.5ex] 
+\hline\hline
+1 & 6 & 87837 & 787 \\ 
+2 & 7 & 78 & 5415 \\
+3 & 545 & 778 & 7507 \\
+4 & 545 & 18744 & 7560 \\
+5 & 88 & 788 & 6344 \\ [1ex] 
+\hline
+\end{tabular}
+\end{table}
+ 
+\subsection{Imágenes}
+
+Las figuras son una representación visual de la información, que facilita y complementa el entendimiento de un tema, concepto o proceso. El contenido de la imagen debe estar en el mismo idioma en que se escribe, y de ser necesario deberá citarse el origen de la información. Siembre debe mencionarse en el texto la figura \ref{fig:figuraejm} previo a su aparición en el documento, y describirse e interpretarse lo más ampliamente posible.
+
+\begin{figure}[!ht]
+\centering
+\includegraphics[width=0.25\textwidth]{imagen-ejemplo}
+\caption{Descripción breve, concisa, pero eficaz de la figura. Se coloca debajo de la imagen. Puede indicarse el origen (nunca copiar tal cual una figura). Adaptado de \citep{bib12}.}
+\label{fig:figuraejm}
+\end{figure}
+
+\subsection{Ecuaciones}
+
+Las ecuaciones forman parte del sustento matemático de la disciplina y se consideran prácticamente indispensables dentro del área de estudio de la computación. Una ecuación \ref{eq:ecuacion_ejm1} debe mencionarse previo a su aparición en el documento. 
+
+\begin{equation}
+\|\tilde{X}(k)\|^2 \leq\frac{\sum\limits_{i=1}^{p}\left\|\tilde{Y}_i(k)\right\|^2+\sum\limits_{j=1}^{q}\left\|\tilde{Z}_j(k)\right\|^2 }{p+q}.
+\label{eq:ecuacion_ejm1}
+\end{equation}
+
+
+\noindent
+La explicación de cada literal o símbolo empleado debe ir sin indentación. Por ejemplo, en la ecuación anterior se especifica que:
+\begin{equation}
+\notag
+Y_\mu =  \partial_\mu - ig \frac{\lambda^a}{2} A^a_\mu.
+\label{eq:ecuacion_ejm2}
+\end{equation}
+
+En el caso anterior, tome nota que la ecuación no está numerada, puesto que no se considera una ecuación independiente, sino que forma parte de la ecuación \ref{eq:ecuacion_ejm1}. 
+
+
+En esta siguiente ecuación \ref{eq:ecuacion_ejm3} \citep{bib5} hay otra variante, nuevamente numerada. Considere que cuando es una ecuación que se ha obtenido de la literatura, también debe indicarse una cita. 
+
+\begin{equation}
+Y_\infty = \left( \frac{m}{\textrm{GeV}} \right)^{-3}
+    \left[ 1 + \frac{3 \ln(m/\textrm{GeV})}{15}
+    + \frac{\ln(c_2/5)}{15} \right].
+\label{eq:ecuacion_ejm3}
+\end{equation}
+
+donde: 
+\noindent
+donde:\\
+$m$ es la masa, \\
+$GeV$ es la aceleración en unidades de \textit{giga eV}, \\
+$c_2$ es etcétera. 

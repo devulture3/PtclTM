@@ -1,0 +1,169 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Maquetado general, no modificar si no es necesario
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage[spanish,mexico]{babel}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Incluir paquetes adicionales en esta sección
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[round]{natbib}
+\bibliographystyle{dcu}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Conventions in use in the Design Computing Unit, Department of Architectural and Design Science, University of Sydney
+%/Users/username/Library/Application Support/MiKTeX/texmfs/install/bibtex/bst/harvard
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Ociones bajo prueba
+%\addto\bibliographystyle{
+%\renewcommand\harvardand{"y"}
+%}
+%\usepackage[fixlanguage]{babelbib}
+%\selectbiblanguage{spanish}
+%\usepackage[round,authoryear,semicolon]{natbib}
+%\setcitestyle{kluwer}
+%\setcitestyle{agu}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage[nottoc]{tocbibind}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Ociones bajo prueba
+%plainnat, abbrvnat
+%\citet{} 	Textual citation
+%\citep{} 	Parenthetical citation
+%\citet*{} 	Same as \citet but if there are several authors, all names are printed
+%\citep*{} 	The same as \citep but if there are several authors, all names are printed
+%\citeauthor{} 	Prints only the name of the authors(s)
+%\citeyear{} 	Prints only the year of the publication. 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\addto\captionsspanish{
+\renewcommand\bibname{Referencias}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Estilo APA
+%\usepackage{apacite}
+% uso con biber
+%\usepackage[backend=biber,style=authoryear,sorting=ynt]{biblatex}
+%\bibliography{biblio}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    citecolor=blue,      
+    urlcolor=blue,
+    pdftitle={Protocolo ICO},
+}
+
+\usepackage{layout}
+
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+
+\usepackage[tableposition = top]{caption}
+\captionsetup{font={small,it}, labelfont={small,it}}
+
+\usepackage{geometry}
+\geometry{
+ letterpaper,
+ left=30mm,
+ top=25mm,
+ right=25mm,
+ bottom=25mm
+ }
+
+\usepackage{setspace}
+\onehalfspace
+\setlength{\parskip}{6pt}
+\usepackage{enumitem}
+\setlist[itemize]{noitemsep, topsep=0pt}
+\setlist[enumerate]{noitemsep, topsep=0pt}
+%\doublespacing
+%\usepackage[fontsize=13]{scrextend}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancypagestyle{plain}{}
+\fancyhf{}
+\rhead{UAEMex Atlacomulco}
+\lhead{Protocolo de proyecto de investigaci\'on}
+\rfoot{P\'ag. \thepage}
+\cfoot{\LaTeX}
+\lfoot{Ingenier\'ia en Computaci\'on}
+\renewcommand{\headrulewidth}{0.6pt}
+\renewcommand{\footrulewidth}{0.6pt}
+\setlength{\headheight}{15pt}
+
+\providecommand{\keywords}[1]
+{
+%  \vspace{0.5cm}
+  \noindent
+  \small	
+  \textbf{\textit{Keywords: }} #1
+}
+
+\providecommand{\keywordssp}[1]
+{
+ % \vspace{0.5cm}
+  \noindent
+  \small	
+  \textbf{\textit{Palabras clave: }} #1
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%
+% Créditos
+\title{Propuesta de protocolo para ICO en \LaTeX}
+\author{Everardo Granda \thanks{}}
+\date{Agosto de 2022}
+%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%\begin{titlepage}
+%\maketitle
+%\end{titlepage}
+
+% Maquetado general, no modificar si no es necesario
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\include{Portada}
+\include{Resumen}
+{\setlength{\parskip}{0cm}\tableofcontents}
+\include{Intro}
+\include{Planteamiento}
+\include{Marco-teorico}
+\include{Hipotesis}
+\include{Metodo}
+\include{Instructivo}
+
+% uso con apacite
+%\bibliographystyle{apacite}
+%\bibliography{biblio}
+
+% con natbib
+\bibliography{biblio}
+
+% uso con biber
+%\printbibliography[heading=bibintoc, title=Referencias]
+
+%\pagenumbering{arabic}
+%\setcounter{page}{5}
+
+%\layout
+
+\end{document}
