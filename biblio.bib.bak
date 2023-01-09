@@ -21,3 +21,14 @@ language = {Castellano}
   year = {2021},
   note = {Documento publicado por el INEGI}
 }
+
+%% tesis partiendo de un libro
+@book{bib_tesis1,
+  author = "Pazmiño Muguersa, Dennisse Alejandra",
+  title = "Prpuesta de un chatbot para el manejo de información academica recurrente de la universidad estatal de milagro",
+  address = "Milagro, Ecuador",
+  publisher = "Tesis de Licenciatura: Ingeniería en Sistemas Computaciónales, Universidad Estatal de Milagro Facultad de Ciencias e Ingenieria",
+  year = "2021",
+  school = {Tesis de Licenciatura en Ingeniería en Sistemas Computacionales, UNEMI},
+  note = {\url{http://repositorio.unemi.edu.ec/handle/123456789/6024}}
+}

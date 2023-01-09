@@ -38,45 +38,45 @@ while executing---line 1361 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1361 of file dcu.bst
 Warning--empty publisher in bib1
-You've used 3 entries,
+You've used 4 entries,
             2921 wiz_defined-function locations,
-            661 strings with 5264 characters,
-and the built_in function-call counts, 15778 in all, are:
-= -- 2692
-> -- 76
+            668 strings with 5697 characters,
+and the built_in function-call counts, 19473 in all, are:
+= -- 3309
+> -- 100
 < -- 0
-+ -- 1278
-- -- 22
-* -- 1330
-:= -- 3120
-add.period$ -- 7
-call.type$ -- 3
-change.case$ -- 42
-chr.to.int$ -- 3
-cite$ -- 4
-duplicate$ -- 45
-empty$ -- 88
-format.name$ -- 28
-if$ -- 2836
++ -- 1565
+- -- 29
+* -- 1632
+:= -- 3874
+add.period$ -- 10
+call.type$ -- 4
+change.case$ -- 55
+chr.to.int$ -- 4
+cite$ -- 5
+duplicate$ -- 60
+empty$ -- 116
+format.name$ -- 37
+if$ -- 3497
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 2
-newline$ -- 17
-num.names$ -- 32
-pop$ -- 20
+missing$ -- 4
+newline$ -- 22
+num.names$ -- 42
+pop$ -- 26
 preamble$ -- 1
-purify$ -- 45
+purify$ -- 60
 quote$ -- 0
-skip$ -- 42
+skip$ -- 51
 stack$ -- 0
-substring$ -- 3867
-swap$ -- 8
-text.length$ -- 42
+substring$ -- 4738
+swap$ -- 9
+text.length$ -- 56
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 14
 warning$ -- 1
-while$ -- 65
+while$ -- 86
 width$ -- 0
-write$ -- 45
+write$ -- 61
 (There were 9 error messages)

@@ -13,4 +13,31 @@ Espacios Universitario como lo son la UAEM hacen uso de las TIC's en procesos de
 
 El Centro Universitario UAEM Atlacomulco, incorpora cada año nuevos alumnos, en cada una de las carreras que oferta, y cada semestre los alumnos realizan tramites para becas, servicio social, practicas profesionales, entre otros tramites que tienen que ver con el area de Asuntos Estudiantiles. Existen diversas formas de atender las solicitudes que se presentan, pues Asuntos Estudiantiles cuenta con correo electronico, pagina de Facebook, y un espacio fisico al cual acudir, en un horario de 09:00 a 17:00 de Lunes a Viernes, aunque este horario puede variar dependiendo de la disponibilidad de tiempo de la persona a cargo del area. Aparentenemte parece inexitente un problema en este caso, incluso viendolo de manera objetiva, pues el flujo de alumnos año con año es constante, es decir no aumentan ni disminuyen considerablemente. El cambio que puede observarse y debe ser tomado en cuenta es la manera en la que las nuevas generaciones estan familiarizadas con la tecnologia, y en el como, de no empezar a implementar nuevas estrategias para mejorar aspectos tan cotidianos como las consultas de información, deja un paso atras a las instituciónes con respecto a aquellas que se han adaptado a estos cambios.
 
-No es sorpresa que en el año 2020 con la
+No es sorpresa que en el año 2020 con la llegada del COVID-19 a México, en donde las TIC's tuvieron un papel fundamental para la educación, muchas instituciónes tuviesen que adaptar muchos procesos a un modelo mas digital, y que al dia de hoy, en el año 2023, despues de regresar a nuestra modalidad presencial, muchos de estos procesos se hayan quedado, pues resultaron mas eficientes que como anteriormente se habia manejado.
+
+La propuesta de implementar un CHATBOT surge tras la necesidad de optimizar algunos procesos en el Area de asuntos estudiantiles, pretende servir como apoyo para atender y procesar solicitudes generales, dando al personal de dicha area mayor tiempo para realizar tareas que requieran de una atención mas precisa, sirviendo asi como apoyo para el personal, y como una herramienta en la cual los alumnos puedan resolver dudas, aun en un horario no laboral, sin gastar tiempo ni dinero en trasladarse de un lugar a otro.
+
+Algunas de las caracteristicas con las que cuenta un chatbot son las siguientes:
+\begin{itemize}
+	\item Cuenta con cierta autonomia, lo cual permite atender y procesar solicitudes sin la necesidad de una persona fisica que lo controle
+	\item Alta disponibilidad, tanto de tiempo como para procesar diferentes solicitudes a la vez
+	\item Facilitan la interación con los usuarios
+\end{itemize}
+
+Todas estas caracteristicas, hacen optimo el uso de Chatbots para antender solicitudes de información, especialmente si esta es recurrente. Por otro lado, los Chatbots requieren una preparación inicial, en donde se le instruye para poder atender de manera adecuada, este entrenamiento debe ser contaste y actualizarse dependiendo del tipo de solicitud que se haga. Actualmente los CHatbots hacen uso de lenguaje natural, asi como de Machine Learning, para procesar solcitudes de manera mas natural con el susuario y dar respuestas lo mas parecidas a como lo haria una persona normal.
+
+\begin{table}[!ht]
+\centering
+\caption{La siguiente tabla muestra algunas de las psoibles causas y consecuencias de nuestro problema. Adaptado de \citep{bib_tesis1}.} 
+\label{tab:ejemplo}
+\begin{tabular}{|p{5.0cm}|p{9.0cm}|}
+\hline
+Causas & Consecuencias \\ [0.5ex] 
+\hline\hline
+Solcitudes Repetidas & El personal pierde tiempo atentiendo a las mismas preguntas \\ [2ex]
+Tiempo de atención limitado & Los estudiantes solo pueden atender sus dudas en un horario especifico \\[2ex]
+Gastos economicos inecesarios & Los estudiantes gastan dinero en el traslado a la institución para antender dudas \\[2ex]
+Fuerte carga laboral en periodos & Existe una sobrecarga de trabajo en periodos como las periodos de becas, trmites de practicas y servicio social, que provoca un agotamiento laboral adicional \\ [2ex]
+\hline
+\end{tabular}
+\end{table}
