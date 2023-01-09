@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  9 JAN 2023 10:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  9 JAN 2023 11:45
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -413,7 +413,7 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  (Resumen.aux) (Intro.aux) (Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.a
-ux) (Metodo.aux) (Instructivo.aux))
+ux) (Metodo.aux))
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
@@ -513,7 +513,7 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `Portada.aux'.
 
 (Portada.tex
-<images//logo.png, id=59, 113.223pt x 108.405pt>
+<images//logo.png, id=15, 113.223pt x 108.405pt>
 File: images//logo.png Graphic file (type png)
 <use images//logo.png>
 Package pdftex.def Info: images//logo.png  used on input line 7.
@@ -556,18 +556,13 @@ No file Intro.tex.
 
 (Planteamiento.tex
 Cap\'{\i }tulo 1.
-[2
+) [2
 
 
 
 
 
-]
-
-Package natbib Warning: Citation `Behar_2008_Metodologia' on page 3 undefined o
-n input line 31.
-
-[3]) [4]
+] [3]
 \openout2 = `Marco-teorico.aux'.
 
 
@@ -578,11 +573,8 @@ No file Hipotesis.tex.
 \openout2 = `Metodo.aux'.
 
 No file Metodo.tex.
-\openout2 = `Instructivo.aux'.
+(Main.bbl) [4
 
-(Instructivo.tex
-Cap\'{\i }tulo 2.
-[5
 
 
 
@@ -594,141 +586,35 @@ Cap\'{\i }tulo 2.
 
 
 
-
-
-]
-
-Package natbib Warning: Citation `bib1' on page 6 undefined on input line 39.
-
-
-Package natbib Warning: Citation `bib2' on page 6 undefined on input line 39.
-
-
-Package natbib Warning: Citation `bib8' on page 6 undefined on input line 41.
-
-
-Package natbib Warning: Citation `bib3' on page 6 undefined on input line 41.
-
-
-Package natbib Warning: Citation `bib11' on page 6 undefined on input line 41.
-
-
-Package natbib Warning: Citation `bib12' on page 6 undefined on input line 41.
-
-
-Package natbib Warning: Citation `bib4' on page 6 undefined on input line 43.
-
-
-Package natbib Warning: Citation `bib12' on page 6 undefined on input line 43.
-
-
-Package natbib Warning: Citation `bib9' on page 6 undefined on input line 45.
-
-
-Package natbib Warning: Citation `bib5' on page 6 undefined on input line 50.
-
-
-Package natbib Warning: Citation `bib_chap' on page 6 undefined on input line 5
-1.
-
-
-Package natbib Warning: Citation `bib7' on page 6 undefined on input line 52.
-
-[6]
-
-Package natbib Warning: Citation `bib_tesis' on page 7 undefined on input line 
-53.
-
-
-Package natbib Warning: Citation `bib6' on page 7 undefined on input line 54.
-
-
-Package natbib Warning: Citation `bib7' on page 7 undefined on input line 55.
-
-
-Package natbib Warning: Citation `bib8' on page 7 undefined on input line 56.
-
-
-Package natbib Warning: Citation `bib10' on page 7 undefined on input line 57.
-
-[7]
-
-Package natbib Warning: Citation `bib11' on page 8 undefined on input line 107.
-
-
-
-Package natbib Warning: Citation `bib11' on page 8 undefined on input line 107.
-
-
-<images//imagen-ejemplo.jpg, id=134, 903.375pt x 521.95pt>
-File: images//imagen-ejemplo.jpg Graphic file (type jpg)
-<use images//imagen-ejemplo.jpg>
-Package pdftex.def Info: images//imagen-ejemplo.jpg  used on input line 128.
-(pdftex.def)             Requested size: 114.4512pt x 66.12762pt.
-
-Package natbib Warning: Citation `bib12' on page 8 undefined on input line 129.
-
-
-
-Package natbib Warning: Citation `bib12' on page 8 undefined on input line 129.
-
-
-[8 <./images//imagen-ejemplo.jpg>]
-
-Package natbib Warning: Citation `bib5' on page 9 undefined on input line 154.
-
-) [9
-pdfTeX warning (ext4): destination with the same identifier (name{equation.2.2.
-2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.152 \include{Instructivo}
-                           ]
-No file Main.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-(Main.aux (Portada.aux)
+] (Main.aux (Portada.aux)
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- (Resumen.aux) (Intro.aux) (Planteamiento.aux)
-(Marco-teorico.aux) (Hipotesis.aux) (Metodo.aux) (Instructivo.aux))
+ (Resumen.aux) (Intro.aux)
+(Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.aux) (Metodo.aux))
 Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 6FF94FA3750EEBBF5FF902F16FE1C7FB;2172.
+(rerunfilecheck)             Checksum: ABCFCB1D218C2706BE900FAC8DCFAF13;486.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 90 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13424 strings out of 475380
- 220243 string characters out of 2786578
- 594464 words of memory out of 3000000
- 34555 multiletter control sequences out of 15000+600000
- 477834 words of font info for 57 fonts, out of 8000000 for 9000
+ 13316 strings out of 475380
+ 218037 string characters out of 2786578
+ 590515 words of memory out of 3000000
+ 34486 multiletter control sequences out of 15000+600000
+ 475484 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,77p,718b,2600s stack positions out of 10000i,1000n,20000p,200000b,80000s
-
-pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
-, replaced by a fixed one
-
- <C:\Users\SKR4DELT\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
-m1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:
-/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fil
-es/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTe
-X/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Progr
-am Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Main.pdf (10 pages, 434499 bytes).
+ 72i,12n,77p,742b,2482s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.
+pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pro
+gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmti12.pfb>
+Output written on Main.pdf (5 pages, 260943 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 123 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 PDF objects out of 1000 (max. 8388607)
+ 10 named destinations out of 1000 (max. 500000)
+ 30 words of extra memory for PDF output out of 10000 (max. 10000000)
 

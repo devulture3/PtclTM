@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Main.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: dcu.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Portada.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+A level-1 auxiliary file: Resumen.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+A level-1 auxiliary file: Intro.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: Planteamiento.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: Marco-teorico.aux
+Reallocating 'name_of_file' (item size: 1) to 14 items.
+A level-1 auxiliary file: Hipotesis.aux
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+A level-1 auxiliary file: Metodo.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: biblio.bib
+Warning--empty publisher in bib1
+You've used 1 entry,
+            2921 wiz_defined-function locations,
+            650 strings with 4899 characters,
+and the built_in function-call counts, 1954 in all, are:
+= -- 283
+> -- 28
+< -- 0
++ -- 116
+- -- 8
+* -- 139
+:= -- 442
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 14
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 23
+empty$ -- 40
+format.name$ -- 10
+if$ -- 349
+int.to.chr$ -- 5
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 7
+num.names$ -- 12
+pop$ -- 8
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 20
+stack$ -- 0
+substring$ -- 361
+swap$ -- 7
+text.length$ -- 14
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 1
+while$ -- 23
+width$ -- 0
+write$ -- 17
+(There was 1 warning)
