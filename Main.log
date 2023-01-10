@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  10 JAN 2023 12:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  10 JAN 2023 13:07
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -569,12 +569,12 @@ Cap\'{\i }tulo 2.
 
 
 
-] [11] [12]) [13]
+] [11] [12]) [13] [14]
 \openout2 = `Hipotesis.aux'.
 
  (Hipotesis.tex
 Cap\'{\i }tulo 3.
-) [14
+) [15
 
 
 
@@ -584,16 +584,16 @@ Cap\'{\i }tulo 3.
 
  (Metodo.tex
 Cap\'{\i }tulo 4.
-) [15
+) [16
 
 
 
 
-] (Main.bbl [16
+] (Main.bbl [17
 
 
 
-] [17]) [18] (Main.aux (Portada.aux)
+] [18] [19]) [20] (Main.aux (Portada.aux)
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  (Resumen.aux)
@@ -606,13 +606,13 @@ Package rerunfilecheck Info: File `Main.out' has not changed.
 ### semi simple group (level 1) entered at line 90 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13475 strings out of 475380
- 220427 string characters out of 2786578
- 594205 words of memory out of 3000000
- 34584 multiletter control sequences out of 15000+600000
+ 13505 strings out of 475380
+ 221151 string characters out of 2786578
+ 594647 words of memory out of 3000000
+ 34606 multiletter control sequences out of 15000+600000
  477090 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,77p,1276b,2648s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,13n,77p,1276b,2676s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist
 , replaced by a fixed one
@@ -636,9 +636,9 @@ cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmtt12.pfb>
-Output written on Main.pdf (19 pages, 389057 bytes).
+Output written on Main.pdf (21 pages, 398468 bytes).
 PDF statistics:
- 313 PDF objects out of 1000 (max. 8388607)
- 65 named destinations out of 1000 (max. 500000)
+ 342 PDF objects out of 1000 (max. 8388607)
+ 73 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

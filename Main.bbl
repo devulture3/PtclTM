@@ -17,6 +17,13 @@ Agarwal, P.~K.  \harvardyearleft 2018\harvardyearright .
 Cox, G.  \harvardyearleft 2021\harvardyearright .
 \newblock Chatterbot documentation.
 
+\harvarditem[Cui et~al.]{Cui, Huang, Wei, Tan, Duan \harvardand\
+  Zhou}{2017}{cui2017superagent}
+Cui, L., Huang, S., Wei, F., Tan, C., Duan, C. \harvardand\ Zhou, M.
+  \harvardyearleft 2017\harvardyearright .
+\newblock Superagent: A customer service chatbot for e-commerce websites, {\em
+  Proceedings of ACL 2017, system demonstrations}, pp.~97--102.
+
 \harvarditem{Dias~e Cordeiro}{2020}{turismo}
 Dias~e Cordeiro, Itamar da Silva~Batista, I.~M.  \harvardyearleft
   2020\harvardyearright .
@@ -44,6 +51,11 @@ Garcia~Brustenga, Guillem-Fuertes~Alpiste, M.-M. C.~N.  \harvardyearleft
   2018\harvardyearright .
 \newblock chatbots in education, {\em Universitat Oberta de Catalunya (UOC)} .
 \newline\harvardurl{http://hdl.handle.net/10609/80185}
+
+\harvarditem{Gelbukh}{2018}{gelbukh2018procesamiento}
+Gelbukh, A.  \harvardyearleft 2018\harvardyearright .
+\newblock Procesamiento de lenguaje natural, {\em Sociedad Mexicana de
+  Inteligencia Artificial} .
 
 \harvarditem{Guaña-Moya}{2017}{art1}
 Guaña-Moya, Edison Javier Quinatoa-Arequipa, E. P.-F. M.~A.  \harvardyearleft
@@ -77,6 +89,17 @@ Masuda, Y.  \harvardyearleft 1984\harvardyearright .
 \newblock La sociedad informatizada como sociedad post-industrial, {\em in}
   T.~(1984) (ed.), {\em La sociedad informatizada como sociedad
   post-industrial}, Madrid, p.~124.
+
+\harvarditem[Miranda-Escalada et~al.]{Miranda-Escalada, Farr{\'e}-Maduell,
+  Lima-L{\'o}pez, Estrada, Gasc{\'o} \harvardand\
+  Krallinger}{2022}{miranda2022mention}
+Miranda-Escalada, A., Farr{\'e}-Maduell, E., Lima-L{\'o}pez, S., Estrada, D.,
+  Gasc{\'o}, L. \harvardand\ Krallinger, M.  \harvardyearleft
+  2022\harvardyearright .
+\newblock Mention detection, normalization \& classification of species,
+  pathogens, humans and food in clinical documents: Overview of the livingner
+  shared task and resources, {\em Procesamiento del Lenguaje Natural} {\bf
+  69}:~241--253.
 
 \harvarditem{Ocaña-Fernández}{2021}{publico}
 Ocaña-Fernández, Yolvi Valenzuela-Fernández, L. A. V.-F. M. A. R.-L. R.~A.
@@ -114,6 +137,23 @@ Renz, A. \harvardand\ Hilbig, R.  \harvardyearleft 2020\harvardyearright .
   technology companies, {\em International Journal of Educational Technology in
   Higher Education} {\bf 17}(1):~1--21.
 
+\harvarditem[Sancho~Escriv{\'a} et~al.]{Sancho~Escriv{\'a}, Fanjul, de~la
+  Iglesia~Vay{\'a}, Montell \harvardand\ Escarti}{2020}{sancho2020aplicacion}
+Sancho~Escriv{\'a}, J.~V., Fanjul, C., de~la Iglesia~Vay{\'a}, M., Montell,
+  J.~A. \harvardand\ Escarti, M.~J.  \harvardyearleft 2020\harvardyearright .
+\newblock Aplicaci{\'o}n de la inteligencia artificial con procesamiento del
+  lenguaje natural para textos de investigaci{\'o}n cualitativa en la
+  relaci{\'o}n m{\'e}dico-paciente con enfermedad mental mediante el uso de
+  tecnolog{\'\i}as m{\'o}viles.
+
+\harvarditem[Schmitt et~al.]{Schmitt, Kubler, Robert, Papadakis \harvardand\
+  LeTraon}{2019}{schmitt2019replicable}
+Schmitt, X., Kubler, S., Robert, J., Papadakis, M. \harvardand\ LeTraon, Y.
+  \harvardyearleft 2019\harvardyearright .
+\newblock A replicable comparison study of ner software: Stanfordnlp, nltk,
+  opennlp, spacy, gate, {\em 2019 Sixth International Conference on Social
+  Networks Analysis, Management and Security (SNAMS)}, IEEE, pp.~338--343.
+
 \harvarditem[Sedoc et~al.]{Sedoc, Ippolito, Kirubarajan, Thirani, Ungar
   \harvardand\ Callison-Burch}{2019}{sedoc-etal-2019-chateval}
 Sedoc, J., Ippolito, D., Kirubarajan, A., Thirani, J., Ungar, L. \harvardand\
@@ -135,6 +175,12 @@ Sun, T.~Q. \harvardand\ Medaglia, R.  \harvardyearleft 2019\harvardyearright .
 \newblock Mapping the challenges of artificial intelligence in the public
   sector: Evidence from public healthcare, {\em Government Information
   Quarterly} {\bf 36}(2):~368--383.
+
+\harvarditem{Wang \harvardand\ Hu}{2021}{wang2021application}
+Wang, M. \harvardand\ Hu, F.  \harvardyearleft 2021\harvardyearright .
+\newblock The application of nltk library for python natural language
+  processing in corpus research, {\em Theory and Practice in Language Studies}
+  {\bf 11}(9):~1041--1049.
 
 \harvarditem[Wunsch et~al.]{Wunsch, Nikolay \harvardand\ Silva~de
   Freitas}{2022}{476172132004}

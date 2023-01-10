@@ -131,45 +131,45 @@ Too many commas in name 1 of "Peña-Torres, Jefferson A. Giraldo-Alegría, Santi
 while executing---line 1361 of file dcu.bst
 Too many commas in name 1 of "Peña-Torres, Jefferson A. Giraldo-Alegría, Santiago Arango-Pastrana, Carlos Alberto Bucheli, Víctor Andrés" for entry kali
 while executing---line 1361 of file dcu.bst
-You've used 23 entries,
+You've used 29 entries,
             2921 wiz_defined-function locations,
-            779 strings with 10113 characters,
-and the built_in function-call counts, 106518 in all, are:
-= -- 17793
-> -- 985
+            811 strings with 11805 characters,
+and the built_in function-call counts, 148946 in all, are:
+= -- 24858
+> -- 1546
 < -- 0
-+ -- 8433
-- -- 295
-* -- 9077
-:= -- 21213
-add.period$ -- 48
-call.type$ -- 23
-change.case$ -- 321
-chr.to.int$ -- 23
-cite$ -- 24
-duplicate$ -- 349
-empty$ -- 688
-format.name$ -- 373
-if$ -- 19164
++ -- 11924
+- -- 470
+* -- 12849
+:= -- 29442
+add.period$ -- 60
+call.type$ -- 29
+change.case$ -- 405
+chr.to.int$ -- 29
+cite$ -- 30
+duplicate$ -- 449
+empty$ -- 893
+format.name$ -- 568
+if$ -- 26824
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 22
-newline$ -- 109
-num.names$ -- 236
-pop$ -- 103
+missing$ -- 28
+newline$ -- 133
+num.names$ -- 300
+pop$ -- 126
 preamble$ -- 1
-purify$ -- 345
+purify$ -- 435
 quote$ -- 0
-skip$ -- 326
+skip$ -- 425
 stack$ -- 0
-substring$ -- 25249
-swap$ -- 61
-text.length$ -- 322
+substring$ -- 35451
+swap$ -- 82
+text.length$ -- 406
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 90
+type$ -- 114
 warning$ -- 1
-while$ -- 505
+while$ -- 641
 width$ -- 0
-write$ -- 334
+write$ -- 422
 (There were 55 error messages)

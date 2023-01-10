@@ -185,5 +185,52 @@ url = {https://doi.org/10.1098/rsta.2017.0357}
     url = "https://aclanthology.org/N19-4011",
     doi = "10.18653/v1/N19-4011",
     pages = "60--65",
-    abstract = "Open-domain dialog systems (i.e. chatbots) are difficult to evaluate. The current best practice for analyzing and comparing these dialog systems is the use of human judgments. However, the lack of standardization in evaluation procedures, and the fact that model parameters and code are rarely published hinder systematic human evaluation experiments. We introduce a unified framework for human evaluation of chatbots that augments existing tools and provides a web-based hub for researchers to share and compare their dialog systems. Researchers can submit their trained models to the ChatEval web interface and obtain comparisons with baselines and prior work. The evaluation code is open-source to ensure standardization and transparency. In addition, we introduce open-source baseline models and evaluation datasets. ChatEval can be found at https://chateval.org.",
+    abstract = "Open-domain dialog systems (i.e. chatbots) are difficult to evaluate. The current best practice for analyzing and comparing these dialog systems is the use of human judgments. However, the lack of standardization in evaluation procedures, and the fact that model parameters and code are rarely published hinder systematic human evaluation experiments. We introduce a unified framework for human evaluation of chatbots that augments existing tools and provides a web-based hub for researchers to share and compare their dialog systems. Researchers can submit their trained models to the ChatEval web interface and obtain comparisons with baselines and prior work. The evaluation code is open-source to ensure standardization and transparency. In addition, we introduce open-source baseline models and evaluation datasets. ChatEval can be found at https://chateval.org."}
+}
+
+@inproceedings{cui2017superagent,
+  title={Superagent: A customer service chatbot for e-commerce websites},
+  author={Cui, Lei and Huang, Shaohan and Wei, Furu and Tan, Chuanqi and Duan, Chaoqun and Zhou, Ming},
+  booktitle={Proceedings of ACL 2017, system demonstrations},
+  pages={97--102},
+  year={2017}
+}
+
+@article{gelbukh2018procesamiento,
+  title={Procesamiento de lenguaje natural},
+  author={Gelbukh, Alexander},
+  journal={Sociedad Mexicana de Inteligencia Artificial},
+  year={2018}
+}
+
+@article{sancho2020aplicacion,
+  title={Aplicaci{\'o}n de la inteligencia artificial con procesamiento del lenguaje natural para textos de investigaci{\'o}n cualitativa en la relaci{\'o}n m{\'e}dico-paciente con enfermedad mental mediante el uso de tecnolog{\'\i}as m{\'o}viles},
+  author={Sancho Escriv{\'a}, Jos{\'e} Vicente and Fanjul, Carlos and de la Iglesia Vay{\'a}, Mar{\'\i}a and Montell, Joaquin A and Escarti, Maria Jose},
+  year={2020},
+  publisher={C{\'a}tedra de Comunicaci{\'o}n y Salud Universidad Complutense de Madrid}
+}
+
+@article{miranda2022mention,
+  title={Mention detection, normalization \& classification of species, pathogens, humans and food in clinical documents: Overview of the LivingNER shared task and resources},
+  author={Miranda-Escalada, Antonio and Farr{\'e}-Maduell, Eul{\`a}lia and Lima-L{\'o}pez, Salvador and Estrada, Darryl and Gasc{\'o}, Luis and Krallinger, Martin},
+  journal={Procesamiento del Lenguaje Natural},
+  volume={69},
+  pages={241--253},
+  year={2022}
+}
+
+@inproceedings{schmitt2019replicable,
+  title={A replicable comparison study of NER software: StanfordNLP, NLTK, OpenNLP, SpaCy, Gate},
+  author={Schmitt, Xavier and Kubler, Sylvain and Robert, J{\'e}r{\'e}my and Papadakis, Mike and LeTraon, Yves},
+  booktitle={2019 Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS)},
+  pages={338--343},
+  year={2019},
+  organization={IEEE}
+}
+
+@inproceedings{khemani2021review,
+  title={A Review on Reddit News Headlines with NLTK tool},
+  author={Khemani, Bharti and Adgaonkar, Amarja},
+  booktitle={Proceedings of the International Conference on Innovative Computing \& Communication (ICICC)},
+  year={2021}
 }
