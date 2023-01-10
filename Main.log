@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  9 JAN 2023 15:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  9 JAN 2023 19:20
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -412,8 +412,8 @@ File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
 (Portada.aux)
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- (Resumen.aux) (Intro.aux) (Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.a
-ux) (Metodo.aux))
+ (Resumen.aux) (Planteamiento.aux) (Marco-teorico.aux)
+(Hipotesis.aux) (Metodo.aux))
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
@@ -513,7 +513,7 @@ Package caption Info: End \AtBeginDocument code.
 \openout2 = `Portada.aux'.
 
 (Portada.tex
-<images//logo.png, id=15, 113.223pt x 108.405pt>
+<images//logo.png, id=51, 113.223pt x 108.405pt>
 File: images//logo.png Graphic file (type png)
 <use images//logo.png>
 Package pdftex.def Info: images//logo.png  used on input line 7.
@@ -525,97 +525,117 @@ Package pdftex.def Info: images//logo.png  used on input line 7.
 /logo.png>])
 \openout2 = `Resumen.aux'.
 
+ (Resumen.tex
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.15 \chapter
+             *{Abstract} [1
 
-No file Resumen.tex.
-(Main.toc
+
+
+
+]) [2
+
+] (Main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@toc=\write4
 \openout4 = `Main.toc'.
 
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.147 \include{Intro}
-                      [1
+ [3
 
 
+
+]
+\openout2 = `Planteamiento.aux'.
+
+ (Planteamiento.tex
+Cap\'{\i }tulo 1.
+[4
+
+
+] [5] [6] [7] [8
+
+]) [9]
+\openout2 = `Marco-teorico.aux'.
+
+ (Marco-teorico.tex
+Cap\'{\i }tulo 2.
+) [10
 
 
 
 
 ]
-\openout2 = `Intro.aux'.
-
-
-No file Intro.tex.
-\openout2 = `Planteamiento.aux'.
-
-(Planteamiento.tex
-Cap\'{\i }tulo 1.
-[2
-
-
-
-
-
-] [3]) [4]
-\openout2 = `Marco-teorico.aux'.
-
-
-No file Marco-teorico.tex.
 \openout2 = `Hipotesis.aux'.
 
-No file Hipotesis.tex.
+ (Hipotesis.tex
+Cap\'{\i }tulo 3.
+) [11
+
+
+
+
+]
 \openout2 = `Metodo.aux'.
 
-No file Metodo.tex.
-(Main.bbl) [5
+ (Metodo.tex
+Cap\'{\i }tulo 4.
+) [12
 
 
 
 
-
-
-
-
-
+] (Main.bbl) [13
 
 
 
 ] (Main.aux (Portada.aux)
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- (Resumen.aux) (Intro.aux)
-(Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.aux) (Metodo.aux))
-Package rerunfilecheck Info: File `Main.out' has not changed.
-(rerunfilecheck)             Checksum: 6F9A2B02EFB92D19A6B59E31E3BD34A1;486.
+ (Resumen.aux) (Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.aux) (Metodo.
+aux))
+
+Package rerunfilecheck Warning: File `Main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Main.out':
+(rerunfilecheck)             Before: B0E7D8B0B9BB9400D8B685B3C7BE25F1;1879
+(rerunfilecheck)             After:  216F3CAA07A64418CED65E0A2ACBF9AF;1907.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 90 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13349 strings out of 475380
- 218513 string characters out of 2786578
- 592801 words of memory out of 3000000
- 34512 multiletter control sequences out of 15000+600000
- 476299 words of font info for 52 fonts, out of 8000000 for 9000
+ 13370 strings out of 475380
+ 218541 string characters out of 2786578
+ 592447 words of memory out of 3000000
+ 34504 multiletter control sequences out of 15000+600000
+ 477090 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,12n,77p,1276b,2483s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.
-pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Pro
-gram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmt
-i12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Main.pdf (6 pages, 298238 bytes).
+ 72i,13n,77p,1276b,2476s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
+, replaced by a fixed one
+
+ <C:\Users\SKR4DELT\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
+les/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Main.pdf (14 pages, 347092 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 223 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

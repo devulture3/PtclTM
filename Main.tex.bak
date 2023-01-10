@@ -144,7 +144,7 @@
 \include{Portada}
 \include{Resumen}
 {\setlength{\parskip}{0cm}\tableofcontents}
-\include{Intro}
+%\include{Intro}
 \include{Planteamiento}
 \include{Marco-teorico}
 \include{Hipotesis}

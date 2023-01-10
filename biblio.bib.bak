@@ -32,3 +32,16 @@ language = {Castellano}
   school = {Tesis de Licenciatura en Ingeniería en Sistemas Computacionales, UNEMI},
   note = {\url{http://repositorio.unemi.edu.ec/handle/123456789/6024}}
 }
+
+@ARTICLE{art2, 
+author = {  Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria }, 
+title = { chatbots in education },
+year = { 2018 }, journal = { Universitat Oberta de Catalunya (UOC) },
+keywords = { inteligencia artificial;
+automatización;
+educación;
+chatbots },
+language = {Ingles},
+url = {http://hdl.handle.net/10609/80185 },
+abstract = {   Los chatbots son programas informáticos que integran inteligencia artificial y que pueden simular, en mayor o menor grado, una conversación humana. Se están volviendo populares ya que funcionan con lenguaje natural y tienen una interfaz de usuario basada en la conversación, muy común en las aplicaciones de mensajería instantánea de teléfonos inteligentes. Se exploran las potencialidades del uso de los chatbots en educación, no tanto para asumir el papel de profesor, sino para ocuparse de aquellas tareas desempeñadas por los docentes que son repetitivas y de bajo nivel cognitivo. En educación, los chatbots pueden funcionar como asistentes virtuales para mejorar la productividad o simplemente para dar respuesta a preguntas más frecuentes (FAQs). Además, hay chatbots con un claro objetivo educativo que funcionan como tutores a lo largo de todo el proceso de aprendizaje.  }
+}

@@ -1,4 +1,4 @@
- \chapter{Planteamiento del problema de investigación}
+\chapter{Planteamiento del problema de investigación}
 
 Hoy en día el uso de tecnologías y medios de comunicación digitales resulta indispensable durante el envio y recepción de información. Para las nuevas generaciones es difícil imaginar una situación en la que no baste con tan solo un clic para comunicarse con alguien en cualquier horario y lugar, esto sumado a la creciente necesidad a lo inmeadiato, genera una problemática para aquellas organizaciones acostumbradas a trasmitir información mediante los métodos mas comunes, como avisos o atendiendo directamente a ventanilla de manera presencial. 
 
@@ -44,51 +44,25 @@ Fuerte carga laboral en periodos & Existe una sobrecarga de trabajo en periodos 
 \end{tabular}
 \end{table}
 \clearpage
-\section{Objetivos de la investigación}
-
-\subsubsection{Objetivo general}
-Implementar un Chatbot con NLP\footnote{NLP de Natural Lenguage Procesing, o procesamiento del lenguaje natural, de aqui en adelante se abreviara como NLP} para mejorar las consultas de información recurrente en el area de asuntos estudiantiles del CU UAEM Atlacomulco
-
-\subsubsection{Objetivos especificos}
-
-\begin{itemize}
-	\item Identificar como el NLP ayuda en la mejora del uso de las TIC's hoy en día.
-	\item Investigar el estado actual de satisfacción de los alumnos con respecto a los metodos tradicionales para consultas de información en el CU UAEM Atlacomulco.
-	\item Diseñar un Chatbot con NLP capaz de atender solicitudes a preguntas generales para el Area de suntos estudiantiles del CU UAEM Atlacomulco
-\end{itemize} 
-
 \section{Preguntas de investigación}
 
 \subsubsection{Pregunta central}
 
-¿Como implementar Procesamiento de Lenguaje natural en Chatbots mejorara el servicio de Asuntos Estudiantiles para los alumnos del Centro Universitario UAEM Atlacomulco?
+Identifique una pregunta central, sobre la que versa el propósito de este tema (recuerde que un tema contiene: línea de investigación y propósito del estudio). Escriba la pregunta aquí. 
 
 \subsubsection{Preguntas secundarias}
 
+Identifique, posiblemente mediante una lista o lista enumerada, algunas interrogantes secundarias sobre el tema. Estas pueden ir cambiando, aumentando o eliminándose conforme el tema se delimite y se avance en la indagación documental. 
+
+Especificar las interrogantes que se pretenden resolver con el desarrollo del proyecto de investigación. Las preguntas pueden ser tanto de índole teórico (conocimiento adquirido) como tecnológico (aplicación de la ciencia). Las preguntas de investigación se identifican con interrogantes como las siguientes:
+
 \begin{itemize}
-	\item ¿Cuáles son las aplicaciónes actuales del NLP, y en que medida ayudan a mejorar las TIC´s hoy en día?
-	\item ¿Qué opinion tienen los alumnos sobre implementar nuevas estrategias tecnologicas para antender dudas generales en el area de Asuntos Estudiantiles?
-	\item ¿Que requerimentos se necesitan para implementar un ChatBot con NLP y en que tiempo puede comenzar a usarse?
+	\item ¿Qué se requiere realizar y para qué?
+	\item ¿Qué relación existe entre el problema planteado y el conocimiento científico a desarrollar?
+	\item ¿Qué brechas científicas o tecnológicas se pretenden acortar?
+	\item ¿De qué modo se relacionan algunas variables?
+	\item	¿De qué manera se miden o cuantifican algunas magnitudes o variables?
+	\item ¿Cuáles son las variables físicas involucradas en la solución del problema? 
+	\item ¿Qué alternativas de solución existen? ¿Cuál es la mejor? 
+	\item ¿Qué nuevas formas de solución se están planteando?
 \end{itemize} 
-
-\section{Justificación}
-
-Con la implementación de este CHATBOT de pretende brindar apoyo a la comunidad estudiantil de CU UAEM Atlacomlco, asi como al departamento de asuntos estudiantiles, para poder brindar un servicio que se adapte a las necesidades actuales y futuras que pueda tener la institución, asi mismo, pretende mostrar las capacidades o posibles aplicaciónes que el uso de este tipo de tecnologias propone para ayudar a diferentes areas posteriormente, como por ejemplo, para brindar información por parte de control escolar a posibles nuevos estudiantes sobre porcesos de inscripción, brindar ayuda a nuevos estudiantes sobre el uso de pataformas como el sistema de control escolar UAEMex, brindar ayuda sobre procesos de reinscripción, pagó de reposición, constancias de estudio, etc. Chatbot no sustituye a las figuras docentes ni a las de personal de administración y servicios, sino que sustituye algunas de las tareas que asumen estas figuras, las complementa y las ayuda\citep{art2}.
-
-\section{Requerimentos del Proyecto}
-
-En este apartado debe explicarse el costo que la investigación requiere (monetario, en
-recursos materiales o humanos, o en tiempo), y comparar este costo con los beneficios
-adquiridos (conocimiento, tecnología, beneficio social, nuevas líneas de investigación,
-potencial de retorno económico del proyecto).
-También se debe describir en este apartado el por qué se propone el uso de determinadas
-herramientas, técnicas, algoritmos, plataformas de desarrollo, etc., cuando éstas se
-identificado durante el desarrollo del protocolo.
-
-\section{Impactos}
-\begin{itemize}
-	\item Científico: 
-	\item Tecnológico: 
-	\item Económico: Ahorro en costos de traslado por parte de los alumnos al no tener que asistir de manera presencial al espacio academico.
-	\item Social: Se pretende tener un impacto positivo en nuevas generaciónes, las cuales al verse envueltas en
-\end{itemize}

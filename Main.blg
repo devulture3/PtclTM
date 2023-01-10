@@ -7,8 +7,6 @@ Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Portada.aux
 Reallocating 'name_of_file' (item size: 1) to 12 items.
 A level-1 auxiliary file: Resumen.aux
-Reallocating 'name_of_file' (item size: 1) to 10 items.
-A level-1 auxiliary file: Intro.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
 A level-1 auxiliary file: Planteamiento.aux
 Reallocating 'name_of_file' (item size: 1) to 18 items.
@@ -23,60 +21,78 @@ Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Ed
 while executing---line 1237 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1237 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1237 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1237 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1273 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1273 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1277 of file dcu.bst
-Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1277 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1309 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
 while executing---line 1309 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1309 of file dcu.bst
+Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
+while executing---line 1309 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1342 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1342 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1361 of file dcu.bst
+Too many commas in name 1 of "Garcia Brustenga, Guillem-Fuertes Alpiste, Marc-Molas Castells, Núria" for entry art2
+while executing---line 1361 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1361 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1361 of file dcu.bst
 Warning--empty publisher in bib1
-You've used 4 entries,
+You've used 5 entries,
             2921 wiz_defined-function locations,
-            668 strings with 5697 characters,
-and the built_in function-call counts, 19473 in all, are:
-= -- 3309
-> -- 100
+            673 strings with 5857 characters,
+and the built_in function-call counts, 25048 in all, are:
+= -- 4269
+> -- 124
 < -- 0
-+ -- 1565
-- -- 29
-* -- 1632
-:= -- 3874
-add.period$ -- 10
-call.type$ -- 4
-change.case$ -- 55
-chr.to.int$ -- 4
-cite$ -- 5
-duplicate$ -- 60
-empty$ -- 116
-format.name$ -- 37
-if$ -- 3497
++ -- 2024
+- -- 36
+* -- 2109
+:= -- 4970
+add.period$ -- 12
+call.type$ -- 5
+change.case$ -- 69
+chr.to.int$ -- 5
+cite$ -- 6
+duplicate$ -- 73
+empty$ -- 140
+format.name$ -- 46
+if$ -- 4496
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 4
-newline$ -- 22
-num.names$ -- 42
-pop$ -- 26
+missing$ -- 5
+newline$ -- 27
+num.names$ -- 52
+pop$ -- 30
 preamble$ -- 1
-purify$ -- 60
+purify$ -- 75
 quote$ -- 0
-skip$ -- 51
+skip$ -- 63
 stack$ -- 0
-substring$ -- 4738
-swap$ -- 9
-text.length$ -- 56
+substring$ -- 6125
+swap$ -- 10
+text.length$ -- 70
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 14
+type$ -- 18
 warning$ -- 1
-while$ -- 86
+while$ -- 107
 width$ -- 0
-write$ -- 61
-(There were 9 error messages)
+write$ -- 75
+(There were 18 error messages)
