@@ -1,5 +1,20 @@
 \begin{thebibliography}{xx}
 
+\harvarditem{Dias~e Cordeiro}{2020}{turismo}
+Dias~e Cordeiro, Itamar da Silva~Batista, I.~M.  \harvardyearleft
+  2020\harvardyearright .
+\newblock La experiencia del usuario en el proceso de adquirir informaciÓn
+  para planear el viaje el caso del chatbot de kayak, {\em Estudios y
+  Perspectivas en Turismo} .
+\newline\harvardurl{https://www.redalyc.org/articulo.oa?id=180764278016}
+
+\harvarditem{Esteve \harvardand\ Campion}{2018}{aiftps}
+Esteve, M. \harvardand\ Campion, A.  \harvardyearleft 2018\harvardyearright .
+\newblock Artificial intelligence for the public sector: opportunities and
+  challenges of cross-sector collaboration, {\em Philosophical Transactions of
+  the Royal Society A: Mathematical, Physical and Engineering Sciences} .
+\newline\harvardurl{https://doi.org/10.1098/rsta.2017.0357}
+
 \harvarditem{Garcia~Brustenga}{2018}{art2}
 Garcia~Brustenga, Guillem-Fuertes~Alpiste, M.-M. C.~N.  \harvardyearleft
   2018\harvardyearright .
@@ -12,6 +27,13 @@ Guaña-Moya, Edison Javier Quinatoa-Arequipa, E. P.-F. M.~A.  \harvardyearleft
 \newblock Tendencias del uso de las tecnologías y conducta del consumidor
   tecnológico, {\em Ciencias Holguín} .
 \newline\harvardurl{https://www.redalyc.org/articulo.oa?id=181550959002}
+
+\harvarditem{Henman}{2020}{publicservices}
+Henman, P.  \harvardyearleft 2020\harvardyearright .
+\newblock Improving public services using artificial
+  intelligence:possibilities, pitfalls, governance, {\em Asia Pacific Journal
+  of Public Administration} .
+\newline\harvardurl{https://doi.org/1 0.1080/23276665.2020.1816188}
 
 \harvarditem{{Instituto Nacional de Estadística y Geografía
   }}{2021}{inegi2021}
@@ -26,6 +48,13 @@ Masuda, Y.  \harvardyearleft 1984\harvardyearright .
   T.~(1984) (ed.), {\em La sociedad informatizada como sociedad
   post-industrial}, Madrid, p.~124.
 
+\harvarditem{Ocaña-Fernández}{2021}{publico}
+Ocaña-Fernández, Yolvi Valenzuela-Fernández, L. A. V.-F. M. A. R.-L. R.~A.
+  \harvardyearleft 2021\harvardyearright .
+\newblock Inteligencia artificial (ia) aplicada a la gestión pública, {\em
+  Revista Venezolana de Gerencia} .
+\newline\harvardurl{https://www.redalyc.org/articulo.oa?id=29069612013}
+
 \harvarditem{Pazmiño~Muguersa}{2021}{bib_tesis1}
 Pazmiño~Muguersa, D.~A.  \harvardyearleft 2021\harvardyearright .
 \newblock {\em Prpuesta de un chatbot para el manejo de información academica
@@ -34,16 +63,25 @@ Pazmiño~Muguersa, D.~A.  \harvardyearleft 2021\harvardyearright .
   Facultad de Ciencias e Ingenieria, Milagro, Ecuador.
 \newblock \url{http://repositorio.unemi.edu.ec/handle/123456789/6024}.
 
-\harvarditem{Wunsch}{2022}{476172132004}
-Wunsch, Luana Priscila~Nikolay, J. R. S. d. F. E.~D.  \harvardyearleft
-  2022\harvardyearright .
+\harvarditem{Peña-Torres}{2022}{kali}
+Peña-Torres, Jefferson A. Giraldo-Alegría, S. A.-P. C. A. B.-V.~A.
+  \harvardyearleft 2022\harvardyearright .
+\newblock Un chatbot para asistir a las necesidades de información en tiempos
+  de covid-19, {\em Ingeniería y Competitividad} .
+\newline\harvardurl{https://www.redalyc.org/articulo.oa?id=291371829011}
+
+\harvarditem[Wunsch et~al.]{Wunsch, Nikolay \harvardand\ Silva~de
+  Freitas}{2022}{476172132004}
+Wunsch, L.~P., Nikolay, J.~R. \harvardand\ Silva~de Freitas, E.~D.
+  \harvardyearleft 2022\harvardyearright .
 \newblock Chatbot: comunicación digital y religiosidad tras la pandemia en
   latinoamérica, {\em Universitas-XXI, Revista de Ciencias Sociales y Humanas}
   .
 \newline\harvardurl{https://www.redalyc.org/articulo.oa?id=476172132004}
 
-\harvarditem{Zhou}{2022}{z}
-Zhou, Yuanyuan-Fei, Z.-H. Y.-Y.~Z.  \harvardyearleft 2022\harvardyearright .
+\harvarditem[Zhou et~al.]{Zhou, Fei \harvardand\ Yang}{2022}{z}
+Zhou, Y., Fei, Zhuoying-He, Y. \harvardand\ Yang, Z.  \harvardyearleft
+  2022\harvardyearright .
 \newblock How human–chatbot interaction impairs charitable giving: The role
   of moral judgment, {\em Journal of Business Ethics} .
 \newline\harvardurl{https://doi.org/10.1007/s10551-022-05045-w}

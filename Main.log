@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  10 JAN 2023 01:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  10 JAN 2023 08:44
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -564,17 +564,17 @@ Cap\'{\i }tulo 1.
 
  (Marco-teorico.tex
 Cap\'{\i }tulo 2.
-) [10
+[10
 
 
 
 
-]
+]) [11]
 \openout2 = `Hipotesis.aux'.
 
  (Hipotesis.tex
 Cap\'{\i }tulo 3.
-) [11
+) [12
 
 
 
@@ -584,20 +584,20 @@ Cap\'{\i }tulo 3.
 
  (Metodo.tex
 Cap\'{\i }tulo 4.
-) [12
+) [13
 
 
 
 
-] (Main.bbl) [13
+] (Main.bbl [14
 
 
 
-] (Main.aux (Portada.aux)
+]) [15] (Main.aux (Portada.aux)
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- (Resumen.aux) (Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.aux) (Metodo.
-aux))
+ (Resumen.aux)
+(Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.aux) (Metodo.aux))
 Package rerunfilecheck Info: File `Main.out' has not changed.
 (rerunfilecheck)             Checksum: 216F3CAA07A64418CED65E0A2ACBF9AF;1907.
  )
@@ -606,13 +606,13 @@ Package rerunfilecheck Info: File `Main.out' has not changed.
 ### semi simple group (level 1) entered at line 90 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13381 strings out of 475380
- 218696 string characters out of 2786578
- 592495 words of memory out of 3000000
- 34513 multiletter control sequences out of 15000+600000
+ 13414 strings out of 475380
+ 219153 string characters out of 2786578
+ 592729 words of memory out of 3000000
+ 34539 multiletter control sequences out of 15000+600000
  477090 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,13n,77p,1276b,2476s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,13n,77p,1276b,2619s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist
 , replaced by a fixed one
@@ -623,13 +623,14 @@ m1200.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
 les/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
-les/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Main.pdf (14 pages, 351914 bytes).
+cm/cmr6.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmtt12.pfb>
+Output written on Main.pdf (16 pages, 370649 bytes).
 PDF statistics:
- 229 PDF objects out of 1000 (max. 8388607)
- 42 named destinations out of 1000 (max. 500000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 49 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
