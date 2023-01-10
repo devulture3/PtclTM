@@ -9,10 +9,10 @@ address = {Madrid},
 keywords = {Informática; Aspectos Sociales; Sociología Industrial; Sociedad De La Información },
 issn = {1133-1151 },
 language = {Castellano}
-}		
+}
 
 @ARTICLE{art1, author = {  Guaña-Moya  , Edison Javier  Quinatoa-Arequipa  , Edwin  Pérez-Fabara  , María Augusta }, title = { Tendencias del uso de las tecnologías y conducta del consumidor tecnológico },year = { 2017 }, journal = { Ciencias Holguín },keywords = { CONSUMIDOR;  TECNOLOGÍA;  ERA DIGITAL;   TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN;  TIC.; CONSUMER;  TECHNOLOGY;  DIGITAL ERA;  INFORMATION AND COMMUNICATION TECHNOLOGIES;  ICT. },issn = {  },language = {Español},url = {https://www.redalyc.org/articulo.oa?id=181550959002 },abstract = {   La  presente  investigación  está  basada  en  revisiones  bibliográficas,  así  como  estadísticas del World States e investigación de los autor es, se logra sustentar  que  el uso de  las  plataformas digitales,  ha alcanzado niveles  de conocimiento  del uso tecnológico y los negocios digitales. En Sudamérica se estima que en  el 2014, el uso de internet fue 54.7% y que para el 2016, se incremente en un  57%,  por  ello  la  nueva  cultura  digital  implica  que  internet  sea  parte  de  la  vida  cotidiana, mientras que las TIC se conviertan en herramientas para desarrollar  actividades como la compra y venta digital, incluyendo a todos los individuos en  la  sociedad;  es tos  nuevos  procesos  permiten  generar  nuevas  tendencias  del  uso  de  las  tecnologías  y  conducta  del  consumidor  tecnológico,  por  lo  que,  permite  una  comunicación  efectiva  en  la  era  digital,  tiene  la  capacidad  de  informarse en tiempo real y facilitar los proces os del consumo en la web.  }
-}	 
+}
 
 % El autor es una institución. 
 @misc{inegi2021,
@@ -44,4 +44,15 @@ chatbots },
 language = {Ingles},
 url = {http://hdl.handle.net/10609/80185 },
 abstract = {   Los chatbots son programas informáticos que integran inteligencia artificial y que pueden simular, en mayor o menor grado, una conversación humana. Se están volviendo populares ya que funcionan con lenguaje natural y tienen una interfaz de usuario basada en la conversación, muy común en las aplicaciones de mensajería instantánea de teléfonos inteligentes. Se exploran las potencialidades del uso de los chatbots en educación, no tanto para asumir el papel de profesor, sino para ocuparse de aquellas tareas desempeñadas por los docentes que son repetitivas y de bajo nivel cognitivo. En educación, los chatbots pueden funcionar como asistentes virtuales para mejorar la productividad o simplemente para dar respuesta a preguntas más frecuentes (FAQs). Además, hay chatbots con un claro objetivo educativo que funcionan como tutores a lo largo de todo el proceso de aprendizaje.  }
+}
+
+@ARTICLE{476172132004, author = {  Wunsch, Luana Priscila Nikolay, Jonas Rafael Silva de Freitas, Evelyn Damasceno}, title = { Chatbot: comunicación digital y religiosidad tras la pandemia en Latinoamérica },year = { 2022 }, journal = { Universitas-XXI, Revista de Ciencias Sociales y Humanas },keywords = { Comunicación;  interacción en línea;  religiosidad;  perspectivas;  tiempos de pandemia;  cultura digital;  acceso;  América Latina.; Communication;  online interaction;  religiosity;  perspectives;  pandemic times;  digital culture;  access;  Latin America. },issn = { 1390-3837 },language = {Español},url = {https://www.redalyc.org/articulo.oa?id=476172132004 },abstract = {   El aislamiento social que se agravó después de marzo de 2020, por Covid-19, puso en evidencia la necesidad de pensar en una nueva agenda que utilice las tecnologías digitales de la comunicación para apoyar el acortamiento de distancias para tener nuevas posibilidades de interacción. En este sentido, este artículo cualitativo presenta un estudio realizado sobre el uso de chatbots para la continuidad de la comunicación entre una comunidad específica: la comunidad religiosa. Este público fue elegido para ejemplificar la relevancia del tema sobre cómo superar, en la actualidad, paradigmas que permitan estar presente como único método interaccional. El diseño metodológico se estructuró en dos fases (i) revisión bibliográfica y (ii) aplicación de un cuestionario a participantes ubicados en áreas geográficas de ocho países Brasil, Uruguay, Argentina, Paraguay, Chile, Perú, Bolivia y Ecuador. Los resultados muestran que el uso de los chatbots se dio a través de tecnologías digitales como soporte de pertenencia para una nueva agenda de comunicación y que, en contextos comunitarios, enfatiza la seguridad de “pertenecer” y, a pesar del aislamiento, no estar solo, permitiendo que personas de todos los ámbitos soliciten apoyo en relación con asuntos de actualidad, problemas locales y circunstancias personales. Estas bases destacaron las siguientes categorías de discusión para pensar sobre lo digital en tiempos de crisis humanitaria.  }
+}
+
+@ARTICLE{z,  
+author = {  Zhou, Yuanyuan-Fei, Zhuoying-He, Yuanqiong-Yang, Zhilin }, 
+title = {How Human–Chatbot Interaction Impairs Charitable Giving: The Role of Moral Judgment},
+year = { 2022 },
+journal = {Journal of Business Ethics},
+url = {https://doi.org/10.1007/s10551-022-05045-w },
 }

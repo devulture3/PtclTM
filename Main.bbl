@@ -1,7 +1,7 @@
 \begin{thebibliography}{xx}
 
 \harvarditem{Garcia~Brustenga}{2018}{art2}
-Garcia~Brustenga, Guillem-Fuertes~Alpiste, M.-M. C.-N.  \harvardyearleft
+Garcia~Brustenga, Guillem-Fuertes~Alpiste, M.-M. C.~N.  \harvardyearleft
   2018\harvardyearright .
 \newblock chatbots in education, {\em Universitat Oberta de Catalunya (UOC)} .
 \newline\harvardurl{http://hdl.handle.net/10609/80185}
@@ -33,5 +33,19 @@ Pazmiño~Muguersa, D.~A.  \harvardyearleft 2021\harvardyearright .
   Ingeniería en Sistemas Computaciónales, Universidad Estatal de Milagro
   Facultad de Ciencias e Ingenieria, Milagro, Ecuador.
 \newblock \url{http://repositorio.unemi.edu.ec/handle/123456789/6024}.
+
+\harvarditem{Wunsch}{2022}{476172132004}
+Wunsch, Luana Priscila~Nikolay, J. R. S. d. F. E.~D.  \harvardyearleft
+  2022\harvardyearright .
+\newblock Chatbot: comunicación digital y religiosidad tras la pandemia en
+  latinoamérica, {\em Universitas-XXI, Revista de Ciencias Sociales y Humanas}
+  .
+\newline\harvardurl{https://www.redalyc.org/articulo.oa?id=476172132004}
+
+\harvarditem{Zhou}{2022}{z}
+Zhou, Yuanyuan-Fei, Z.-H. Y.-Y.~Z.  \harvardyearleft 2022\harvardyearright .
+\newblock How human–chatbot interaction impairs charitable giving: The role
+  of moral judgment, {\em Journal of Business Ethics} .
+\newline\harvardurl{https://doi.org/10.1007/s10551-022-05045-w}
 
 \end{thebibliography}

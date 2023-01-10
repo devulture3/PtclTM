@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  9 JAN 2023 19:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.11.7)  10 JAN 2023 01:13
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -598,24 +598,18 @@ LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  (Resumen.aux) (Planteamiento.aux) (Marco-teorico.aux) (Hipotesis.aux) (Metodo.
 aux))
-
-Package rerunfilecheck Warning: File `Main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Main.out':
-(rerunfilecheck)             Before: B0E7D8B0B9BB9400D8B685B3C7BE25F1;1879
-(rerunfilecheck)             After:  216F3CAA07A64418CED65E0A2ACBF9AF;1907.
+Package rerunfilecheck Info: File `Main.out' has not changed.
+(rerunfilecheck)             Checksum: 216F3CAA07A64418CED65E0A2ACBF9AF;1907.
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 90 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 13370 strings out of 475380
- 218541 string characters out of 2786578
- 592447 words of memory out of 3000000
- 34504 multiletter control sequences out of 15000+600000
+ 13381 strings out of 475380
+ 218696 string characters out of 2786578
+ 592495 words of memory out of 3000000
+ 34513 multiletter control sequences out of 15000+600000
  477090 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,13n,77p,1276b,2476s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -633,9 +627,9 @@ cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Fi
 les/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Main.pdf (14 pages, 347092 bytes).
+Output written on Main.pdf (14 pages, 351914 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
+ 229 PDF objects out of 1000 (max. 8388607)
+ 42 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -86,9 +86,8 @@ herramientas, técnicas, algoritmos, plataformas de desarrollo, etc., cuando és
 identificado durante el desarrollo del protocolo.
 
 \section{Impactos}
-\begin{itemize}
-	\item Científico: 
-	\item Tecnológico: 
+\begin{itemize} 
+	\item Tecnológico: Se pretende buscar un metodo en el cual se pueda implementar de manera eficiente el Procesamiento de Lenguaje Natural mediante un Chatbot, de modo que el impacto econocmico sea minimo, implementando librerias en python, y haciendo uso de aplicación de mensajeria instantanea como telegram o Whatsapp.
 	\item Económico: Ahorro en costos de traslado por parte de los alumnos al no tener que asistir de manera presencial al espacio academico.
-	\item Social: Se pretende tener un impacto positivo en nuevas generaciónes, las cuales al verse envueltas en
+	\item Social: Se pretende tener un impacto positivo en nuevas generaciónes, apoyando en los procesos academicos, mejorando la calidad en la atención al alumnado.
 \end{itemize}
