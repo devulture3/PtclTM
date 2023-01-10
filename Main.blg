@@ -17,6 +17,11 @@ Reallocating 'name_of_file' (item size: 1) to 11 items.
 A level-1 auxiliary file: Metodo.aux
 Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: biblio.bib
+Unbalanced braces---line 133 of file biblio.bib
+ : 
+ : }
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
 while executing---line 1237 of file dcu.bst
 Too many commas in name 1 of "Guaña-Moya , Edison Javier Quinatoa-Arequipa , Edwin Pérez-Fabara , María Augusta" for entry art1
@@ -126,45 +131,45 @@ Too many commas in name 1 of "Peña-Torres, Jefferson A. Giraldo-Alegría, Santi
 while executing---line 1361 of file dcu.bst
 Too many commas in name 1 of "Peña-Torres, Jefferson A. Giraldo-Alegría, Santiago Arango-Pastrana, Carlos Alberto Bucheli, Víctor Andrés" for entry kali
 while executing---line 1361 of file dcu.bst
-You've used 12 entries,
+You've used 23 entries,
             2921 wiz_defined-function locations,
-            710 strings with 7652 characters,
-and the built_in function-call counts, 59105 in all, are:
-= -- 10014
-> -- 407
+            779 strings with 10113 characters,
+and the built_in function-call counts, 106518 in all, are:
+= -- 17793
+> -- 985
 < -- 0
-+ -- 4772
-- -- 120
-* -- 5028
-:= -- 11751
-add.period$ -- 26
-call.type$ -- 12
-change.case$ -- 167
-chr.to.int$ -- 12
-cite$ -- 13
-duplicate$ -- 164
-empty$ -- 308
-format.name$ -- 150
-if$ -- 10596
++ -- 8433
+- -- 295
+* -- 9077
+:= -- 21213
+add.period$ -- 48
+call.type$ -- 23
+change.case$ -- 321
+chr.to.int$ -- 23
+cite$ -- 24
+duplicate$ -- 349
+empty$ -- 688
+format.name$ -- 373
+if$ -- 19164
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 12
-newline$ -- 62
-num.names$ -- 124
-pop$ -- 56
+missing$ -- 22
+newline$ -- 109
+num.names$ -- 236
+pop$ -- 103
 preamble$ -- 1
-purify$ -- 180
+purify$ -- 345
 quote$ -- 0
-skip$ -- 149
+skip$ -- 326
 stack$ -- 0
-substring$ -- 14313
-swap$ -- 17
-text.length$ -- 168
+substring$ -- 25249
+swap$ -- 61
+text.length$ -- 322
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 46
+type$ -- 90
 warning$ -- 1
-while$ -- 254
+while$ -- 505
 width$ -- 0
-write$ -- 177
-(There were 54 error messages)
+write$ -- 334
+(There were 55 error messages)

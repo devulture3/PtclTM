@@ -1,5 +1,22 @@
 \begin{thebibliography}{xx}
 
+\harvarditem{Adamopoulou \harvardand\
+  Moussiades}{2020}{adamopoulou2020overview}
+Adamopoulou, E. \harvardand\ Moussiades, L.  \harvardyearleft
+  2020\harvardyearright .
+\newblock An overview of chatbot technology, {\em IFIP International Conference
+  on Artificial Intelligence Applications and Innovations}, Springer,
+  pp.~373--383.
+
+\harvarditem{Agarwal}{2018}{agarwal2018public}
+Agarwal, P.~K.  \harvardyearleft 2018\harvardyearright .
+\newblock Public administration challenges in the world of ai and bots, {\em
+  Public Administration Review} {\bf 78}(6):~917--921.
+
+\harvarditem{Cox}{2021}{chatterbot}
+Cox, G.  \harvardyearleft 2021\harvardyearright .
+\newblock Chatterbot documentation.
+
 \harvarditem{Dias~e Cordeiro}{2020}{turismo}
 Dias~e Cordeiro, Itamar da Silva~Batista, I.~M.  \harvardyearleft
   2020\harvardyearright .
@@ -7,6 +24,13 @@ Dias~e Cordeiro, Itamar da Silva~Batista, I.~M.  \harvardyearleft
   para planear el viaje el caso del chatbot de kayak, {\em Estudios y
   Perspectivas en Turismo} .
 \newline\harvardurl{https://www.redalyc.org/articulo.oa?id=180764278016}
+
+\harvarditem{Echeverri~Torres \harvardand\ Betancur}{2020}{asistVirAcad}
+Echeverri~Torres, M. M.~M. \harvardand\ Betancur, R.  \harvardyearleft
+  2020\harvardyearright .
+\newblock Asistente virtual académico utilizando tecnologías cognitivas de
+  procesamiento de lenguaje natural, {\em Revista Politécnica} .
+\newline\harvardurl{https://www.redalyc.org/articulo.oa?id=607863449007}
 
 \harvarditem{Esteve \harvardand\ Campion}{2018}{aiftps}
 Esteve, M. \harvardand\ Campion, A.  \harvardyearleft 2018\harvardyearright .
@@ -42,6 +66,12 @@ Henman, P.  \harvardyearleft 2020\harvardyearright .
 \newblock Comunicado de prensa nÚm. 352/21.
 \newblock Documento publicado por el INEGI.
 
+\harvarditem{Lokman \harvardand\ Ameedeen}{2018}{lokman2018modern}
+Lokman, A.~S. \harvardand\ Ameedeen, M.~A.  \harvardyearleft
+  2018\harvardyearright .
+\newblock Modern chatbot systems: A technical review, {\em Proceedings of the
+  future technologies conference}, Springer, pp.~1012--1023.
+
 \harvarditem{Masuda}{1984}{bib1}
 Masuda, Y.  \harvardyearleft 1984\harvardyearright .
 \newblock La sociedad informatizada como sociedad post-industrial, {\em in}
@@ -70,6 +100,42 @@ Peña-Torres, Jefferson A. Giraldo-Alegría, S. A.-P. C. A. B.-V.~A.
   de covid-19, {\em Ingeniería y Competitividad} .
 \newline\harvardurl{https://www.redalyc.org/articulo.oa?id=291371829011}
 
+\harvarditem{Prendes~Espinosa}{2021}{331464460002}
+Prendes~Espinosa, Mª Paz Cerdán~Cartagena, F.  \harvardyearleft
+  2021\harvardyearright .
+\newblock Tecnologías avanzadas para afrontar el reto de la innovación
+  educativa, {\em RIED. Revista Iberoamericana de Educación a Distancia} .
+\newline\harvardurl{https://www.redalyc.org/articulo.oa?id=331464460002}
+
+\harvarditem{Renz \harvardand\ Hilbig}{2020}{renz2020prerequisites}
+Renz, A. \harvardand\ Hilbig, R.  \harvardyearleft 2020\harvardyearright .
+\newblock Prerequisites for artificial intelligence in further education:
+  identification of drivers, barriers, and business models of educational
+  technology companies, {\em International Journal of Educational Technology in
+  Higher Education} {\bf 17}(1):~1--21.
+
+\harvarditem[Sedoc et~al.]{Sedoc, Ippolito, Kirubarajan, Thirani, Ungar
+  \harvardand\ Callison-Burch}{2019}{sedoc-etal-2019-chateval}
+Sedoc, J., Ippolito, D., Kirubarajan, A., Thirani, J., Ungar, L. \harvardand\
+  Callison-Burch, C.  \harvardyearleft 2019\harvardyearright .
+\newblock {C}hat{E}val: A tool for chatbot evaluation, {\em Proceedings of the
+  2019 Conference of the North {A}merican Chapter of the Association for
+  Computational Linguistics (Demonstrations)}, Association for Computational
+  Linguistics, Minneapolis, Minnesota, pp.~60--65.
+\newline\harvardurl{https://aclanthology.org/N19-4011}
+
+\harvarditem{Shawar \harvardand\ Atwell}{2007}{shawar2007different}
+Shawar, B.~A. \harvardand\ Atwell, E.  \harvardyearleft 2007\harvardyearright .
+\newblock Different measurement metrics to evaluate a chatbot system, {\em
+  Proceedings of the workshop on bridging the gap: Academic and industrial
+  research in dialog technologies}, pp.~89--96.
+
+\harvarditem{Sun \harvardand\ Medaglia}{2019}{sun2019mapping}
+Sun, T.~Q. \harvardand\ Medaglia, R.  \harvardyearleft 2019\harvardyearright .
+\newblock Mapping the challenges of artificial intelligence in the public
+  sector: Evidence from public healthcare, {\em Government Information
+  Quarterly} {\bf 36}(2):~368--383.
+
 \harvarditem[Wunsch et~al.]{Wunsch, Nikolay \harvardand\ Silva~de
   Freitas}{2022}{476172132004}
 Wunsch, L.~P., Nikolay, J.~R. \harvardand\ Silva~de Freitas, E.~D.
@@ -78,6 +144,13 @@ Wunsch, L.~P., Nikolay, J.~R. \harvardand\ Silva~de Freitas, E.~D.
   latinoamérica, {\em Universitas-XXI, Revista de Ciencias Sociales y Humanas}
   .
 \newline\harvardurl{https://www.redalyc.org/articulo.oa?id=476172132004}
+
+\harvarditem[Zhou et~al.]{Zhou, Gao, Li \harvardand\
+  Shum}{2020}{zhou2020design}
+Zhou, L., Gao, J., Li, D. \harvardand\ Shum, H.-Y.  \harvardyearleft
+  2020\harvardyearright .
+\newblock The design and implementation of xiaoice, an empathetic social
+  chatbot, {\em Computational Linguistics} {\bf 46}(1):~53--93.
 
 \harvarditem[Zhou et~al.]{Zhou, Fei \harvardand\ Yang}{2022}{z}
 Zhou, Y., Fei, Zhuoying-He, Y. \harvardand\ Yang, Z.  \harvardyearleft

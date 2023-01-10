@@ -13,4 +13,27 @@ El uso de Chatbots como herramienta no tiene por que limitarse a un sector en pa
 
 Para \citet{publicservices} la implemetación de IA en el sector publico es evidente, pues las tecnologias digitales han cambiado y seguiran cambiando rapidamente el panorama que se tiene en la presentación de servicios publicos, incluso ya para el 2020 se sabia que el modo en que la tecnologia esta avanzando de manera tan vertiginoza, en donde tecnologias como el big data, machine learning, NLP, etc. han propiciado que la aplicación de la IA sea cada vez mas necesario para mantenerse a la par de esta revolución tecnologica, no solo para sectores directamente relaciónados como la computación, o los sistemas computaciónales, sino tambien en el ambito social, educativo, publico y privado, casi para cualquier sector de la sociedad la implementación de las nuevas tecnologias supone un gran apoyo en las tareas cotidianas de estos. Y aunque esto supone muchos desafios, es inegable que cada vez se convierte mas en una necesidad que en un lujo la adaptación a las nuevas tecnologias\citep{publico}
 
-De este modo 
+De este modo \citet{aiftps} afirma que cada vez mas organizaciónes del sector publico estan interesadas en el uso e implementación de IA parala ciencia de datos. Aunque se debe tomar en cuenta que no todas las personas estan capacitadas para afrontar los desafios que exige esta nueva transformación, tal como afirma \citet{agarwal2018public}, ademas de la predisposición adoptada por los usuarios finales a los que se pretende llegar con estas nuevas tecnologias, se debe tener encuenta que una exageración en la implementación de IA da com resultado una mayor incertidumbre en cuan positivo podria resultar para el sector privado, tal como lo señala \citet{sun2019mapping}
+
+En un espacio academico la situación es similar a la implementación de las nuevas tecnologias en el sector publico, no debemos olvidar que apesar de los multiples usos y ventajas que nos proporciona el convinar metodologias innovadoras con el uso de tecnologias novedosas las cuales dan como resultado profesionales creativos y con multiples habilidades \citep{renz2020prerequisites} esta se introduce de manera lenta, a fin de volverse parte de nuestra vida, \citet{331464460002} menciona que la tecnologia ah formado completamente parte de nuestras vidas, cuando no percibimos que existe, como ejemplo, el uso de la electricidad que forma parte de nuestro día a día y sin embargo naide se da cuenta de la importancia que esta tiene, como lo fue en el momento de su invención. Esa es la meta aspiracional que se pretende alcanzar con el uso de las teconologias avanzadas frente al reto de la innovación educativa.
+
+De este modo, retomando la propuesta del uso de tecnologias cognitivas, \citet{asistVirAcad} mencionan que las nuevas tecnologias en conjunto con el gran avanze y presencia que tiene el internet actualmente proporcionan nuevas oportunidades al sistema educativo para mejorar los sistemas de información para los estudiantes, en donde proponen el uso de un asistente virtual academico aplicando tecnologias cognitivas de procesamiento natural. En este trabajo se hace una comparativa entre las principales plataformas de procesamiento de lenguaje natural como lo son, Dialogflow, Rasa, Amazon Lex y IBM Watson, poniendo especial atencion en aspectos como los costros, conocimientos que son requeridos para implementar dichos sistemas, integraciones con mensajerias ya existentes, etc.
+
+En cuanto a la existencia de Chatbots en el mercado, se pueden encontrar distintos, como lo es Chatterbot, el cual es una biblioteca de python con la finalidad de facilitar la generación de respuestas ante la entrada de datos por parte de un usuario\cite{chatterbot}
+
+Hasta aqui, se ha resaltado la importancia de los Chatbots, asi como algunos ejemplos de ellos, y sus usos en distintos sectores sociales, por lo que lo siguiente seria señalar aquellos trabajos que buscan clasificar los chatbots en funcion de diferentes parametros, de acuerdo con \citet{adamopoulou2020overview} los parametros a tomar en cuenta son los siguientes:
+
+\begin{itemize} 
+	\item Dominio de conocimiento
+	\item Servicio prestado
+	\item Objetivos
+	\item Metodo de procesamiento de entrada y generación de respuestas
+	\item Ayuda humana
+	\item Método de construcción
+\end{itemize}
+
+Mientras que otros como \citet{lokman2018modern} secciona la clasificación de los Chatbots en dos: Diseño arquitectonico y proceso de implementación. En donde englobal aspectos como la generación de respuestas, el procesamiento de textos y modelo de aprendiaje en el Diseño arquitectonico y el uso de datos para la parte del proceso de implementación.
+
+Estos parametros nos sirven para lograr una clasificación adecuada de los chatbots, sin embargo para medir la efectividad de estos los parametros a tomar en cuenta son distintos. Pues mientras que en los bots orientados a tareas el rendimiento se mide mediante el exito de la tarea, en los chatbots sociales las medición del rendimiento resulta mas complicada\citep{shawar2007different}. Para tal caso \citet{zhou2020designç} afronta este problema evaluando el CPS\footnote{Conversation-turns Per Session} y NAU\footnote{Number of Active Users} teniendo como objetivo mantener el interes del usuario en la conversación con el Chatbot de Microsoft XiaoIce.
+
+En otro caso \citet{sedoc2019chateval
